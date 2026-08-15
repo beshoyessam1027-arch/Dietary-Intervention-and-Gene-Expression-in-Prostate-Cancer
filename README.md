@@ -95,3 +95,5 @@ Taxonomic Classification: Precise mapping using Kraken2.
 Data Visualization: Interactive insights generated through Krona and MultiQC.
 ![Sankey After](<img width="1020" height="600" alt="image" src="https://github.com/user-attachments/assets/f6f0e1ad-8ab2-4236-a234-48258259a91e" />)
 
+Conclusion & Biological Takeaway:
+The 12-month dietary intervention with high-glucoraphanin broccoli soup showed high stability in the prostate tissue microbiome with no signs of dysbiosis. The biological samples maintained host integrity (~94-95% human DNA) while preserving a consistent baseline fungal background (Ascomycota).
