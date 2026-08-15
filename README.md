@@ -1,4 +1,4 @@
-# Transcriptional Response to Broccoli Intervention in Prostate Cancer
+"Investigating the Transcriptional & Microbiome Response to Dietary Broccoli Intervention in Prostate Cancer (Patient 34 Case Study)".
 
 ## 🔬 Project Overview
 This project analyzes RNA-seq data from **Patient 34** (BioProject: PRJEB25542) to investigate how a 12-month diet of high-glucoraphanin broccoli soup affects gene expression in prostate tissue.
